@@ -274,10 +274,10 @@ button{
     color: white;
 }
 .black{
-    display:flex;
-    margin-top:5vh;
-    background-color:black;
-    padding:0 5vh;
+    display: flex;
+    margin-top: 5vh;
+    background-color: black;
+    justify-content: space-evenly;
 }
 .white-text{
     color:white;
@@ -463,8 +463,12 @@ button{
 }
 form{
     display: flex;
-    flex-direction: column;
-    align-items: center;
+    align-items: stretch;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+form input, form textarea{
+    width: 100%;
 }
 .bt-black{
     background-color: black;
@@ -494,7 +498,7 @@ textarea{
     font-family: 'roboto';
     min-width: 91%;
     border-radius: 5px;
-    max-width: 91%;
+    max-width: 100%;
     min-height: 13vh;
     padding: 1vh;
 }
@@ -553,7 +557,7 @@ footer{
 .rede-social-icon{
     cursor:pointer;
 }
-@media screen and (max-width:390px){
+@media screen and (max-width:480px){
     .cab-1 p{
         display:none;
     }
@@ -744,9 +748,12 @@ footer{
     }
     .slide-text{
         max-width: 100%;
-        max-height: 80%;
+        max-height: 100%;
         line-height: 3vh;
         font-size: 2vh;
+        display: flex;
+        overflow: hidden;
+        text-overflow: ellipsis;
     }
     .rede_text{
         align-items: center;

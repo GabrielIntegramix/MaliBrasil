@@ -269,7 +269,7 @@
                         <label>Guarulhos SP - Cep-07070-140</label>
                     </div>
                 </div>
-                <form class="div-form" action="{{route('sendgrid')}}" method="post">
+                <form class="div-form input-form" action="{{route('sendgrid')}}" method="post">
                     @csrf
                     <input id="nome" name="nome" placeholder="Nome"></input>
                     <input id="email" name="email" placeholder="Email"></input>
