@@ -28,6 +28,26 @@
                 </div>
             </div>
         </div>
+        <div class="circle-slides">
+            <div id="banner-1" class="slide-change" onclick="banner(this.id)">
+                <i class="bi bi-circle-fill"></i>
+            </div>
+            <div id="banner-2" class="slide-change" onclick="banner(this.id)">
+                <i class="bi bi-circle-fill"></i>
+            </div>
+            <div id="banner-3" class="slide-change" onclick="banner(this.id)">
+                <i class="bi bi-circle-fill"></i>
+            </div>
+            <div id="banner-4" class="slide-change" onclick="banner(this.id)">
+                <i class="bi bi-circle-fill"></i>
+            </div>
+            <div id="banner-5" class="slide-change" onclick="banner(this.id)">
+                <i class="bi bi-circle-fill"></i>
+            </div>
+            <div id="banner-6" class="slide-change" onclick="banner(this.id)">
+                <i class="bi bi-circle-fill"></i>
+            </div>
+        </div>
         <!-- Rede internacional estrategica -->
         <div class="rede-content">
             <div class="cab-4">
