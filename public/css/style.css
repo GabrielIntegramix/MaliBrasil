@@ -91,6 +91,9 @@ button{
     justify-content: space-between;
     font-weight: bold;
 }
+.circle-slides{
+    display:none;
+}
 .slide-change{
     height: 12vh;
     max-width: 140px;
@@ -760,5 +763,13 @@ footer{
     }
     .img-green-text{
         font-size:3vh;
+    }
+    .circle-slides{
+        display: flex;
+        justify-content: space-around;
+        align-items: stretch;
+        padding: 2vh;
+        max-height: 1vh;
+        color: gray;
     }
 }
