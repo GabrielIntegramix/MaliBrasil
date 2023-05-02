@@ -772,4 +772,8 @@ footer{
         max-height: 1vh;
         color: gray;
     }
+    #ban-circle-1:focus, #ban-circle-2:focus, #ban-circle-3:focus,
+    #ban-circle-4:focus, #ban-circle-5:focus, #ban-circle-6:focus{
+        color:#3D8B5B;
+    }
 }

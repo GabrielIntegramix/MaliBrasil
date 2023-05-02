@@ -30,22 +30,22 @@
         </div>
         <div class="circle-slides">
             <div id="banner-1" class="slide-change" onclick="banner(this.id)">
-                <i class="bi bi-circle-fill"></i>
+                <i id="ban-circle-1" class="bi bi-circle-fill"></i>
             </div>
             <div id="banner-2" class="slide-change" onclick="banner(this.id)">
-                <i class="bi bi-circle-fill"></i>
+                <i id="ban-circle-2" class="bi bi-circle-fill"></i>
             </div>
             <div id="banner-3" class="slide-change" onclick="banner(this.id)">
-                <i class="bi bi-circle-fill"></i>
+                <i id="ban-circle-3" class="bi bi-circle-fill"></i>
             </div>
             <div id="banner-4" class="slide-change" onclick="banner(this.id)">
-                <i class="bi bi-circle-fill"></i>
+                <i id="ban-circle-4" class="bi bi-circle-fill"></i>
             </div>
             <div id="banner-5" class="slide-change" onclick="banner(this.id)">
-                <i class="bi bi-circle-fill"></i>
+                <i id="ban-circle-5" class="bi bi-circle-fill"></i>
             </div>
             <div id="banner-6" class="slide-change" onclick="banner(this.id)">
-                <i class="bi bi-circle-fill"></i>
+                <i id="ban-circle-6" class="bi bi-circle-fill"></i>
             </div>
         </div>
         <!-- Rede internacional estrategica -->
