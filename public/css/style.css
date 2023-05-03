@@ -205,15 +205,15 @@ button{
     width:300px;
 }
 .politica-div{
+    max-width: 55%;
 }
 #bt_ler{
     border-radius: 5px;
     border: solid 2px white;
     color: white;
     min-width: 16vh;
-    width: 20vh;
+    width: 27vh;
     padding: 1vh 1vh;
-    margin: 0 0 0px 5vh;
     display: flex;
     justify-content: space-between;
 }

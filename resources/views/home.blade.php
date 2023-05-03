@@ -104,9 +104,9 @@
                     Torne-se parte da economia circular e sustentável com a Mali Brasil Reversa.
                     Não somos apenas uma empresa de reciclagem, somos uma inovação renovável que transforma materiais descartados em uma nova oportunidade de vida útil.
                 </p>
-                <h5><i class="bi bi-check-circle-fill"></i>Torne-se parte da economia circular e sustentável com a Mali Brasil Reversa.</h5>
-                <h5><i class="bi bi-check-circle-fill"></i>Inovação sustentável em tecnologia.</h5>
-                <h5><i class="bi bi-check-circle-fill"></i>Tecnologia transformada em sustentabilidade.</h5>
+                <h4><i class="bi bi-check-circle-fill"></i>Torne-se parte da economia circular e sustentável com a Mali Brasil Reversa.</h4>
+                <h4><i class="bi bi-check-circle-fill"></i>Inovação sustentável em tecnologia.</h4>
+                <h4><i class="bi bi-check-circle-fill"></i>Tecnologia transformada em sustentabilidade.</h4>
             </div>
         </div>
         <!-- certificacao ISO -->
